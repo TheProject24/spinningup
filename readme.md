@@ -1,7 +1,8 @@
 **Status:** Maintenance (expect bug fixes and minor updates)
 
-Welcome to Spinning Up in Deep RL! 
-==================================
+MAIN for knny
+
+# Welcome to Spinning Up in Deep RL!
 
 This is an educational resource produced by OpenAI that makes it easier to learn about deep reinforcement learning (deep RL).
 
@@ -17,9 +18,7 @@ This module contains a variety of helpful resources, including:
 
 Get started at [spinningup.openai.com](https://spinningup.openai.com)!
 
-
-Citing Spinning Up
-------------------
+## Citing Spinning Up
 
 If you reference or use Spinning Up in your research, please cite:
 
